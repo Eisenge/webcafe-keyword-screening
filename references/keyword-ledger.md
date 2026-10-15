@@ -2,6 +2,43 @@
 
 每日筛选结论、候选词、排除词及原因。新批次追加到顶部，标注日期。推荐/排除前先查此表防重复。
 
+## 2026-10-15 批次结论
+
+数据源：当日 7 批全部扫完（T1128 19:28 / T0817 16:17 / T0514 13:14 / T0243 10:43 等；新词 179、二次爆火 89、小游戏 77+），另查详情页 + 哥飞 AI 意见。
+
+### 新站候选（工具站）
+
+| 关键词 | GPTs× | 判定 | 核验/哥飞 AI 意见 | 结论 |
+| --- | --- | --- | --- | --- |
+| **everygen ai video generator** | ×0.055(判定卡达标线) | **值得做·新站首页**，+492% 高位，推荐过，专门页面 11 | Everygen AI（原 Viewmax）= 集成 Veo/Kling/Seedance 多模型的 AI 视频生成器，无水印。哥飞建议详细评测+教程站。哥飞 AI：社群零讨论该产品，但"AI 视频生成器"品类有哥飞本人硬案例（9 个月 $11.8K 外链、付费收入已超成本）；变现 Affiliate 优先（Pollo.ai 官方计划；Dearest 佣金公式 starter≈$11/creator≈$48 每人每年）+AdSense 搭配；**红线：不注册 everygen 品牌域名**（veo3.ai 被没收、索赔百万教训），用自己的品牌域名（Fast3D.io 打法）；坑：上游依赖（Veo/Kling/Seedance 生死链）、评测站=内容站打法非工具站打法 | ✅ **推荐做**（待用户拍板+申请域名） |
+| tip toe in my jordans | ×0.161 | 可以试试·新站首页，+74% | 在线生成 Riff Raff 舞步恶搞视频；梗词易过时、热度绝对值低 | 备选（不优先） |
+
+### 内页候选
+
+| 关键词 | GPTs× | 判定 | 结论 |
+| --- | --- | --- | --- |
+| github rea | ×5.52 (+2457%) | 可以试试·做内页 | REA（Reverse Engineer Anything）开源 MCP 工具，教程/攻略页可截流，前两页全是大站内页无独立首页；长尾仅 1 个 |
+| deepseek harness | ×4.13 | 可以试试·做内页 | DeepSeek 官方开源代理运行时，教程页有机会但已回落、前两页 GitHub/DeepSeek 官网/DataCamp 垄断，窗口已过 |
+| photon studio | ×0.631 | 可以试试·做内页 | 月搜仅 70，下载指南/评测页，价值低 |
+
+### 排除（含品牌词/版权/新闻/游戏垄断）
+
+| 关键词 | GPTs× | 原因 |
+| --- | --- | --- |
+| firefly wedding manga read | ×0.228 (+2262%) | 哥飞"值得做"但聚合盗版漫画扫描版，版权风险，**不做** |
+| steal an egg | ×27.3 | 游戏，前两页 19 专门页面全是大平台/Wiki，新站极难挤入 |
+| muse ai / googleflow / coloros 17 / genspark speakly | ×19.9/×2.45/×8.13 | Meta/Google/OPPO/字节品牌词红线 |
+| character ai bankruptcy | ×0.360 | 纯新闻事件，看完即走，CNBC/CNN 垄断 |
+| simpsons hit and run browser / hogwarts legacy remaster | ×0.179/×0 | 游戏/新闻性，归 noomicheems 内页池观察 |
+| meshy 6 retexture / maemo v 2.6 pro | ×0.000/×0.003 | 热度太小 |
+| gasumlage / legetøj tilbud | ×0.799/— | 新闻/待分析，无工具意图 |
+
+### 当日最终结论
+
+- **唯一新站候选：everygen ai video generator 评测+教程站**（推荐做，等用户拍板；域名不含 everygen）
+- 内页候选：github rea（可挂新站或现有站）、deepseek harness（窗口已过，可放弃）
+- 行动：待用户确认开建后按哥飞打法落地（评测首页+模型对比+教程+vs 对比+提示词工具页；Affiliate+AdSense；5 语言+GEO 三件套）
+
 ## 2026-10-13 批次结论
 
 数据源：新词批次（update 2026-10-13T0642 新词 40 / T0711 小游戏批）、长青词库（v=worth，133 词）、哥飞 AI 两轮意见。
